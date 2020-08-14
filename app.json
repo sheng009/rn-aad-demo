@@ -1,0 +1,12 @@
+{
+  "name": "rn-aad-demo",
+  "displayName": "rn-aad-demo",
+  "expo": {
+    "name": "rn-aad-demo",
+    "slug": "rn-aad-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
